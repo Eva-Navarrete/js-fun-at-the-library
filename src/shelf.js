@@ -26,7 +26,7 @@ function searchShelf(shelf, title) {
       return true;
     }
   }
-     return false;
+  return false;
 }
 
 
